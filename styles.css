@@ -1,0 +1,33 @@
+.link-header
+{
+    list-style: none;
+    font-size: 24px;
+}
+
+h1, h2
+{
+    text-align: center;
+}
+
+img
+{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.home
+{
+    text-align: center;
+}
+
+.ingr-and-steps, .recipies
+{
+    border: 2px solid blue;
+}
+
+#strom
+{
+    height: 600px;
+    width: 600px;
+}
